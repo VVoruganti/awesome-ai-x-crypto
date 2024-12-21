@@ -1,4 +1,4 @@
-# Awesome Identic Agents
+# Awesome Identic Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A collection of projects surrounding **Identic Agents**. Agents that have
 > have persistent identities that can evolve as they interact with the world
@@ -13,6 +13,7 @@
 - [YouSim](https://yousim.ai)
 - [Eliza](https://github.com/ai16z/eliza)
 - [Deertick](https://github.com/deeterbleater/deertick)
+- [Honcho](https://honcho.dev)
 
 ## Truly Autonomous
 

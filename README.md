@@ -14,6 +14,10 @@
 - [Eliza](https://github.com/ai16z/eliza)
 - [Deertick](https://github.com/deeterbleater/deertick)
 - [Honcho](https://honcho.dev)
+- [Virtuals](https://www.virtuals.io/)
+- [Creator Bid](https://creator.bid/)
+- [Spectral](https://www.spectrallabs.xyz/)
+- [vvaifu](https://vvaifu.fun/)
 
 ## Truly Autonomous
 
